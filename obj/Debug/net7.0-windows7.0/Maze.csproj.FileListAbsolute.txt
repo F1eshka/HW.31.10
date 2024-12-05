@@ -1,0 +1,21 @@
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\Maze.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\Maze.Properties.Resources.resources
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\Maze.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\Maze.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\Maze.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\Maze.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Maze\bin\Debug\net7.0-windows7.0\Maze.exe
+C:\Users\Alex\Desktop\Maze\bin\Debug\net7.0-windows7.0\Maze.deps.json
+C:\Users\Alex\Desktop\Maze\bin\Debug\net7.0-windows7.0\Maze.runtimeconfig.json
+C:\Users\Alex\Desktop\Maze\bin\Debug\net7.0-windows7.0\Maze.dll
+C:\Users\Alex\Desktop\Maze\bin\Debug\net7.0-windows7.0\Maze.pdb
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\Maze.dll
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\refint\Maze.dll
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\Maze.pdb
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\Maze.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\ref\Maze.dll
+C:\Users\Alex\Desktop\Maze\obj\Debug\net7.0-windows7.0\Maze.LevelForm.resources
+C:\Users\Rog\Desktop\2.2. Maze\obj\Debug\net7.0-windows7.0\Maze.dll
+C:\Users\Rog\Desktop\2.2. Maze\obj\Debug\net7.0-windows7.0\refint\Maze.dll
+C:\Users\Rog\Desktop\2.2. Maze\obj\Debug\net7.0-windows7.0\Maze.pdb
